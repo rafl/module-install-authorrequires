@@ -7,7 +7,7 @@ use base 'Module::Install::Base';
 
 # cargo cult
 BEGIN {
-    our $VERSION = '0.01';
+    our $VERSION = '0.02';
     our $ISCORE  = 1;
 }
 
